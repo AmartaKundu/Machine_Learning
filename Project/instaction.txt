@@ -1,0 +1,5 @@
+1. Python flax sarver.
+
+(clint): UI Application
+(server): Python flax server
+(model): colabs notebook
